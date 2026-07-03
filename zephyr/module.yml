@@ -1,0 +1,4 @@
+name: zmk-keyboard-totem-plus-1
+build:
+  settings:
+    board_root: .
